@@ -37,7 +37,6 @@ logilab-common==1.4.2
 loguru==0.5.1
 lxml==4.3.2
 MarkupSafe==1.1.0
-matplotlib==3.3.1
 mccabe==0.6.1
 microdotphat==0.2.1
 mote==0.0.4
